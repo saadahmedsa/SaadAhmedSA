@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Saad Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Full Stack development**
 
 - 👨‍💻 All of my projects are available at [https://portfoliosaadahmed.netlify.app](https://portfoliosaadahmed.netlify.app)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Front-end development**
 
 - 📫 How to reach me **ss5099903@gmail.com**
 
