@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Saad Ahmed</h1>
-<h3 align="center">A passionate MERN Developer</h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 <div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Front+End+Developer+👨🏻‍💻;ReactJS+Developer+💡" alt="Typing SVG" /></div
 
@@ -10,11 +10,10 @@
 <img align="right" width="400" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg">
 <br>
 
-- 🔭 I'm currently working on **React JS , Next JS Projects**
+- 🔭 I'm currently working on **MERN stack , Next JS Projects**
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 💬 Ask me about **Front End Development (HTML, CSS, Tailwind CSS, JavaScript, Firebase, React JS, Next JS)**
+- 💬 Ask me about **Front End Development (HTML, CSS, Tailwind CSS, JavaScript, Firebase, React JS, Next JS)
+- MERN stack (MongoDB , Express.js , React.js , Node.js)**
 
 - 📫 How to reach me **ss5099903@gmail.com**
 
@@ -25,11 +24,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align='left'>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,firebase,tailwind,react,mui,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,firebase,tailwind,react,mui,next,express,mongodb,redux,nodejs" />
 </p>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhassanraza25&show_icons=true&locale=en&layout=compact" alt="muhammadhassanraza25" /></p>
+
 
 <br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassanraza25"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saadahmedsa"/></p>
